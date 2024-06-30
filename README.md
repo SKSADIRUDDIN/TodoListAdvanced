@@ -1,5 +1,4 @@
-# Live Link 
-https://createeetodoos.netlify.app/
+# [Live Link](https://createeetodoos.netlify.app)
 
 # Code 
-. It is in master branch
+[It is in master branch](https://github.com/SKSADIRUDDIN/TodoListAdvanced/tree/master)
